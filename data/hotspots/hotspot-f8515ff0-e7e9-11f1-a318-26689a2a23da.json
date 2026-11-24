@@ -1,0 +1,80 @@
+[
+    {
+        "images": [
+            4,
+            5,
+            9,
+            12,
+            13,
+            16,
+            17,
+            18,
+            19,
+            23,
+            26,
+            27
+        ],
+        "img": "B24P30.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 1"
+    },
+    {
+        "images": [
+            0,
+            1,
+            2,
+            10,
+            21,
+            22,
+            24,
+            25,
+            28
+        ],
+        "img": "B24P31.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 2"
+    },
+    {
+        "images": [
+            6,
+            7,
+            8,
+            14,
+            15
+        ],
+        "img": "B24P18.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 3"
+    },
+    {
+        "images": [
+            29,
+            30,
+            31,
+            32,
+            35
+        ],
+        "img": "\u843d\u82b1\u5408\u5531syc reaction_\u64f7\u53d6\u5f71\u683c_02.05.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 4"
+    },
+    {
+        "images": [
+            3,
+            11,
+            20
+        ],
+        "img": "B24P23.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 5"
+    },
+    {
+        "images": [
+            33,
+            34
+        ],
+        "img": "tumblr_inline_oax3vpIG1r1t6ecng_1280.jpg",
+        "layout": "inception_vectors",
+        "label": "Cluster 6"
+    }
+]
